@@ -1,6 +1,5 @@
 
-
-⚠️ _UNDER CONSTRUCTION, PLEASE STAND BY_ ⚠️
+# 👋 Salut! I'm Tuan (you can call me Hathena).
 
 <!---
 vercheres/vercheres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
